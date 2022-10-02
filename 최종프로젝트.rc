@@ -1,0 +1,195 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "bitmap1.bmp"
+
+IDB_BITMAP2             BITMAP                  "bitmap2.bmp"
+
+IDB_BITMAP3             BITMAP                  "bitmap3.bmp"
+
+IDB_BITMAP4             BITMAP                  "bitmap4.bmp"
+
+IDB_BITMAP5             BITMAP                  "bitmap5.bmp"
+
+IDB_BITMAP6             BITMAP                  "bitmap6.bmp"
+
+IDB_BITMAP7             BITMAP                  "bitmap7.bmp"
+
+IDB_BITMAP8             BITMAP                  "bitmap8.bmp"
+
+IDB_BITMAP9             BITMAP                  "bitmap9.bmp"
+
+IDB_BITMAP10            BITMAP                  "bitmap10.bmp"
+
+IDB_BITMAP11            BITMAP                  "bitmap11.bmp"
+
+IDB_BITMAP12            BITMAP                  "bitmap12.bmp"
+
+IDB_BITMAP13            BITMAP                  "bitmap13.bmp"
+
+IDB_BITMAP14            BITMAP                  "bitmap14.bmp"
+
+IDB_BITMAP15            BITMAP                  "bitmap15.bmp"
+
+IDB_BITMAP16            BITMAP                  "bitmap16.bmp"
+
+IDB_BITMAP17            BITMAP                  "bitmap17.bmp"
+
+IDB_BITMAP18            BITMAP                  "bitmap18.bmp"
+
+IDB_BITMAP19            BITMAP                  "bitmap19.bmp"
+
+IDB_BITMAP20            BITMAP                  "bitmap20.bmp"
+
+IDB_BITMAP21            BITMAP                  "bitmap21.bmp"
+
+IDB_BITMAP22            BITMAP                  "bitmap22.bmp"
+
+IDB_BITMAP23            BITMAP                  "bitmap23.bmp"
+
+IDB_BITMAP24            BITMAP                  "bitmap24.bmp"
+
+IDB_BITMAP25            BITMAP                  "bitmap25.bmp"
+
+IDB_BITMAP26            BITMAP                  "bitmap26.bmp"
+
+IDB_BITMAP27            BITMAP                  "bitmap27.bmp"
+
+IDB_BITMAP28            BITMAP                  "bitmap28.bmp"
+
+IDB_BITMAP29            BITMAP                  "bitmap29.bmp"
+
+IDB_BITMAP30            BITMAP                  "bitmap30.bmp"
+
+IDB_BITMAP31            BITMAP                  "bitmap31.bmp"
+
+IDB_BITMAP32            BITMAP                  "bitmap32.bmp"
+
+IDB_BITMAP33            BITMAP                  "bitmap33.bmp"
+
+IDB_BITMAP34            BITMAP                  "bitmap34.bmp"
+
+IDB_BITMAP35            BITMAP                  "bitmap35.bmp"
+
+IDB_BITMAP36            BITMAP                  "bitmap36.bmp"
+
+IDB_BITMAP37            BITMAP                  "bitmap37.bmp"
+
+IDB_BITMAP38            BITMAP                  "bitmap38.bmp"
+
+IDB_BITMAP39            BITMAP                  "bitmap39.bmp"
+
+IDB_BITMAP40            BITMAP                  "bitmap40.bmp"
+
+IDB_BITMAP41            BITMAP                  "bitmap41.bmp"
+
+IDB_BITMAP42            BITMAP                  "bitmap42.bmp"
+
+IDB_BITMAP43            BITMAP                  "bitmap43.bmp"
+
+IDB_BITMAP44            BITMAP                  "bitmap44.bmp"
+
+IDB_BITMAP45            BITMAP                  "bitmap45.bmp"
+
+IDB_BITMAP46            BITMAP                  "bitmap46.bmp"
+
+IDB_BITMAP47            BITMAP                  "bitmap47.bmp"
+
+IDB_BITMAP48            BITMAP                  "bitmap48.bmp"
+
+IDB_BITMAP49            BITMAP                  "bitmap49.bmp"
+
+IDB_BITMAP50            BITMAP                  "bitmap50.bmp"
+
+IDB_BITMAP51            BITMAP                  "bitmap51.bmp"
+
+IDB_BITMAP52            BITMAP                  "bitmap52.bmp"
+
+IDB_BITMAP53            BITMAP                  "bitmap53.bmp"
+
+IDB_BITMAP54            BITMAP                  "bitmap54.bmp"
+
+IDB_BITMAP55            BITMAP                  "bitmap55.bmp"
+
+IDB_BITMAP56            BITMAP                  "bitmap56.bmp"
+
+IDB_BITMAP57            BITMAP                  "bitmap57.bmp"
+
+IDB_BITMAP58            BITMAP                  "bitmap58.bmp"
+
+IDB_BITMAP59            BITMAP                  "bitmap59.bmp"
+
+IDB_BITMAP60            BITMAP                  "bitmap60.bmp"
+
+IDB_BITMAP61            BITMAP                  "bitmap61.bmp"
+
+IDB_BITMAP62            BITMAP                  "bitmap62.bmp"
+
+IDB_BITMAP63            BITMAP                  "bitmap63.bmp"
+
+IDB_BITMAP64            BITMAP                  "bitmap64.bmp"
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
